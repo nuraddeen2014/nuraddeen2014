@@ -89,9 +89,9 @@ I would love to contribute to large-scale software projects in security, network
 
 ## 📚 Learning Journey
 
-* **Now:** *\[e.g., Django Channels, Celery, JWT/OAuth2, Docker Compose]*
-* **Next:** *\[e.g., Redis, CI/CD, K8s basics, Observability]*
-* **Notes repo:** <[https://github.com/](https://github.com/)<you>/learning-notes>
+* **Now:** *Django, Restful APIs, PostgreSQL, HCIP security*
+* **Next:** *Docker, kubernetes, node.js, next.js, cursor IDE*
+
 
 <details>
 <summary><b>AI Prompting Cheatsheet (mini)</b></summary>
