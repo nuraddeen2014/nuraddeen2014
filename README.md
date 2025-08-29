@@ -140,7 +140,7 @@ I would love to contribute to large-scale software projects in security, network
 
 ## 📫 Contact
 - 📧 Email: harunabdulmalik2014@gmail.com
-- 🐦 Twitter/X: <https://x.com/<harunabdulmlk>>  
+- 🐦 Twitter/X: <https://x.com/harunabdulmlk>  
 
 > I’m open to internships, freelance, or collaborations on impactful backend projects.
 
