@@ -120,9 +120,9 @@ I would love to contribute to large-scale software projects in security, network
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=<your-username>" alt="streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nuraddeen2014&show_icons=true" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nuraddeen2014" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuraddeen2014&layout=compact" alt="top langs" />
 </p>
 
 
