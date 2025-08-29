@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I’m <YOUR NAME>
+# 👋 Hi, I’m Abdulmalik Haruna
 
 ### Backend Developer • ALX Software Engineering Learner • Building reliable APIs & scalable systems
 
