@@ -2,13 +2,19 @@
 
 # Hi, I’m Abdulmalik Haruna 👋
 
-**Backend Developer (Junior) • ALX Software Engineering Learner**
+**Backend Developer  • ALX Software Engineering**
 
 I build REST APIs with Django and FastAPI, focusing on clean data models,
 authentication, and real-world backend features.
 
 <a href="https://github.com/nuraddeen2014">
   <img src="https://img.shields.io/badge/GitHub-nuraddeen2014-black?logo=github" />
+</a>
+<a href="https://www.linkedin.com/in/nuraddeen2014">
+  <img src="https://img.shields.io/badge/LinkedIn-nuraddeen2014-0A66C2?logo=linkedin" />
+</a>
+<a href="https://x.com/harunabdulmlk">
+  <img src="https://img.shields.io/badge/Twitter%2FX-@harunabdulmlk-000000?logo=x" />
 </a>
 <a href="mailto:harunabdulmalik2014@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-blue?logo=gmail" />
@@ -20,7 +26,7 @@ authentication, and real-world backend features.
 
 ## 👨🏽‍💻 About Me
 
-I am a backend-focused software engineering learner currently enrolled in the
+I am a backend-focused software engineering learner and buider currently enrolled in the
 **ALX Software Engineering Program**.
 
 I enjoy building APIs that solve real problems, especially around:
@@ -28,6 +34,7 @@ I enjoy building APIs that solve real problems, especially around:
 - user permissions
 - voting & interactions
 - filtering and search
+- best security practices
 
 I’m actively improving my skills through hands-on projects and open to
 **backend internships and junior roles**.
@@ -51,8 +58,8 @@ I’m actively improving my skills through hands-on projects and open to
 
 **Tools**
 - Git & GitHub
-- Linux (CLI)
-- Docker (basic usage)
+- Linux 
+- Docker 
 - Postman
 
 ---
@@ -111,6 +118,8 @@ A REST API that allows users to document bugs, propose solutions, comment, and u
 
 - Email: harunabdulmalik2014@gmail.com  
 - GitHub: https://github.com/nuraddeen2014  
+- LinkedIn: https://www.linkedin.com/in/nuraddeen2014  
+- Twitter/X: https://x.com/harunabdulmlk  
 
 ---
 
