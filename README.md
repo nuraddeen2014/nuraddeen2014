@@ -37,10 +37,10 @@ I enjoy building APIs that solve real problems, especially around:
 - best security practices
 
 I’m actively improving my skills through hands-on projects and open to
-**backend internships and junior roles**.
+**backend and/or fullstack roles**.
 
 📍 Location: Abuja, Nigeria  
-🌍 Open to: Remote opportunities
+🌍 Open to: Remote opportunities, On-site, Hybrid, Freelance, Open Source conributions
 
 ---
 
@@ -49,7 +49,7 @@ I’m actively improving my skills through hands-on projects and open to
 **Backend**
 - Python
 - Django & Django REST Framework
-- FastAPI (basic usage)
+- FastAPI
 
 **Databases**
 - PostgreSQL
@@ -99,6 +99,8 @@ A REST API that allows users to document bugs, propose solutions, comment, and u
 
 ## 📚 Currently Learning
 
+- Building AI-Powered Chatbots
+- Grinding leetcodes
 - Django REST Framework (advanced usage)
 - PostgreSQL in production
 - API deployment (Render)
