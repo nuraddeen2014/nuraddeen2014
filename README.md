@@ -26,7 +26,7 @@ authentication, and real-world backend features.
 
 ## 👨🏽‍💻 About Me
 
-I am a backend-focused software engineering learner and buider currently enrolled in the
+I am a backend-focused software engineer constantly learning and building, previously enrolled in the
 **ALX Software Engineering Program**.
 
 I enjoy building APIs that solve real problems, especially around:
@@ -35,6 +35,8 @@ I enjoy building APIs that solve real problems, especially around:
 - voting & interactions
 - filtering and search
 - best security practices
+- automation
+- artificial intelligence
 
 I’m actively improving my skills through hands-on projects and open to
 **backend and/or fullstack roles**.
