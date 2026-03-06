@@ -1,130 +1,20 @@
-<div align="center">
+# Igalia Internship Standards
 
-# Hi, I’m Abdulmalik Haruna 👋
+## Highlighted Projects
+- **Project A**: Description of project A and its significance.
+- **Project B**: Description of project B and its relevance to Igalia's goals.
+- **Project C**: Overview of project C and the technologies used.
 
-**Backend Developer  • ALX Software Engineering**
+## Contributing to Open Source Roadmap
+We encourage contributions from all interns. Here’s how you can contribute:
+1. **Identify Opportunities**: Look for open issues in existing projects.
+2. **Fork the Repository**: Create a personal copy of the project.
+3. **Make Your Changes**: Implement your features or bug fixes.
+4. **Submit a Pull Request**: Follow the code review guidelines and submit your changes for review.
 
-I build REST APIs with Django and FastAPI, focusing on clean data models,
-authentication, and real-world backend features.
+## Linux and Web Standards
+As part of our commitment to quality, here are the key standards to adhere to:
+- **Linux Standards**: Follow the guidelines set by the Linux Foundation concerning system architecture and software compatibility.
+- **Web Standards**: Ensure your work complies with W3C standards, including HTML5, CSS3, and API guidelines for cross-browser compatibility.
 
-<a href="https://github.com/nuraddeen2014">
-  <img src="https://img.shields.io/badge/GitHub-nuraddeen2014-black?logo=github" />
-</a>
-<a href="https://www.linkedin.com/in/nuraddeen2014">
-  <img src="https://img.shields.io/badge/LinkedIn-nuraddeen2014-0A66C2?logo=linkedin" />
-</a>
-<a href="https://x.com/harunabdulmlk">
-  <img src="https://img.shields.io/badge/Twitter%2FX-@harunabdulmlk-000000?logo=x" />
-</a>
-<a href="mailto:harunabdulmalik2014@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-blue?logo=gmail" />
-</a>
-
-</div>
-
----
-
-## 👨🏽‍💻 About Me
-
-I am a backend-focused software engineer constantly learning and building, previously enrolled in the
-**ALX Software Engineering Program**.
-
-I enjoy building APIs that solve real problems, especially around:
-- structured data
-- user permissions
-- voting & interactions
-- filtering and search
-- best security practices
-- automation
-- artificial intelligence
-
-I’m actively improving my skills through hands-on projects and open to
-**backend and/or fullstack roles**.
-
-📍 Location: Abuja, Nigeria  
-🌍 Open to: Remote opportunities, On-site, Hybrid, Freelance, Open Source conributions
-
----
-
-## 🛠 Tech Stack
-
-**Backend**
-- Python
-- Django & Django REST Framework
-- FastAPI
-
-**Databases**
-- PostgreSQL
-- MySQL
-- SQLite
-
-**Tools**
-- Git & GitHub
-- Linux 
-- Docker 
-- Postman
-
----
-
-## 🚀 Highlighted Projects
-
-### 🐞 Bug Tracker API
-A REST API that allows users to document bugs, propose solutions, comment, and upvote helpful answers.
-
-**Key features**
-- User authentication
-- Bug posts & solutions
-- Voting system (toggle upvote)
-- Comments
-- Tags & filtering
-- Permissions (users can only modify their content)
-
-🔗 Repo: https://github.com/nuraddeen2014/alx-bug-tracker-api
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nuraddeen2014&show_icons=true" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nuraddeen2014" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuraddeen2014&layout=compact" alt="Top languages" />
-</p>
-
----
-
-## 📚 Currently Learning
-
-- Building AI-Powered Chatbots
-- Grinding leetcodes
-- Django REST Framework (advanced usage)
-- PostgreSQL in production
-- API deployment (Render)
-- Backend best practices
-
----
-
-## 🎓 Certifications & Training
-
-- ALX Software Engineering Program (ongoing)
-- Huawei HCIA (AI, Security, Datacom)
-- CCNA (Networking fundamentals)
-
----
-
-## 📫 Contact
-
-- Email: harunabdulmalik2014@gmail.com  
-- GitHub: https://github.com/nuraddeen2014  
-- LinkedIn: https://www.linkedin.com/in/nuraddeen2014  
-- Twitter/X: https://x.com/harunabdulmlk  
-
----
-
-⭐ I’m open to backend internships, junior roles, and collaborative projects.
+For more detailed guidelines, please refer to the [official documentation](https://www.igalia.com).
