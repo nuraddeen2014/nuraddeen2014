@@ -1,20 +1,161 @@
-# Igalia Internship Standards
+<div align="center">
 
-## Highlighted Projects
-- **Project A**: Description of project A and its significance.
-- **Project B**: Description of project B and its relevance to Igalia's goals.
-- **Project C**: Overview of project C and the technologies used.
+# Hi, I’m Abdulmalik Haruna 👋
 
-## Contributing to Open Source Roadmap
-We encourage contributions from all interns. Here’s how you can contribute:
-1. **Identify Opportunities**: Look for open issues in existing projects.
-2. **Fork the Repository**: Create a personal copy of the project.
-3. **Make Your Changes**: Implement your features or bug fixes.
-4. **Submit a Pull Request**: Follow the code review guidelines and submit your changes for review.
+**Backend Developer • Python • Open Source Enthusiast**
 
-## Linux and Web Standards
-As part of our commitment to quality, here are the key standards to adhere to:
-- **Linux Standards**: Follow the guidelines set by the Linux Foundation concerning system architecture and software compatibility.
-- **Web Standards**: Ensure your work complies with W3C standards, including HTML5, CSS3, and API guidelines for cross-browser compatibility.
+I build REST APIs and backend systems using Python, Django, and FastAPI.
+I enjoy designing clean data models, authentication systems, and scalable APIs.
 
-For more detailed guidelines, please refer to the [official documentation](https://www.igalia.com).
+<a href="https://github.com/nuraddeen2014">
+  <img src="https://img.shields.io/badge/GitHub-nuraddeen2014-black?logo=github" />
+</a>
+<a href="https://www.linkedin.com/in/nuraddeen2014">
+  <img src="https://img.shields.io/badge/LinkedIn-nuraddeen2014-0A66C2?logo=linkedin" />
+</a>
+<a href="https://x.com/harunabdulmlk">
+  <img src="https://img.shields.io/badge/X-@harunabdulmlk-black?logo=x" />
+</a>
+<a href="mailto:harunabdulmalik2014@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-blue?logo=gmail" />
+</a>
+
+</div>
+
+---
+
+# 👨🏽‍💻 About Me
+
+I am a backend-focused software engineer based in **Abuja, Nigeria**, with a strong interest in **open-source software and Linux-based development**.
+
+I recently completed the **ALX Software Engineering Program (Backend Track)** where I worked extensively with Python, Django, and REST API development.
+
+I enjoy building systems that handle:
+
+- structured data
+- authentication and authorization
+- permissions and access control
+- user interaction systems (comments, voting, tagging)
+- scalable API architectures
+
+I am particularly interested in **how real-world software systems are built and maintained**, especially in collaborative open-source environments.
+
+🌍 Open to:  
+- Open Source Contributions  
+- Backend / Full-stack roles  
+- Remote opportunities  
+
+---
+
+# 🛠 Tech Stack
+
+### Backend
+- Python
+- Django
+- Django REST Framework
+- FastAPI
+
+### Databases
+- PostgreSQL
+- MySQL
+- SQLite
+
+### Tools
+- Git & GitHub
+- Linux development environment
+- Docker
+- Postman
+
+### Web
+- HTML
+- CSS
+- JavaScript
+
+---
+
+# 🚀 Selected Projects
+
+## 🐞 Bug Tracker API
+
+A REST API that allows users to report bugs, propose solutions, comment on discussions, and upvote helpful answers.
+
+### Features
+
+- User authentication
+- Bug reports and solutions
+- Voting system
+- Commenting system
+- Tags and filtering
+- Permission control (users can only edit their own content)
+
+🔗 Repository  
+https://github.com/nuraddeen2014/alx-bug-tracker-api
+
+---
+
+## 🎓 Student Study Portal
+
+A role-based academic portal designed to support student learning and resource access.  
+The system allows users to manage study materials, interact with structured content, and access personalized dashboards.
+
+### Features
+
+- Secure user authentication
+- Role-based access control
+- Student dashboards
+- Study material management
+- Structured database relationships
+- Backend logic for managing academic resources
+
+🔗 Repository  
+https://github.com/nuraddeen2014/student-study-portal
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nuraddeen2014&show_icons=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nuraddeen2014" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuraddeen2014&layout=compact" />
+</p>
+
+---
+
+# 📚 Currently Learning
+
+I’m actively expanding my knowledge in:
+
+- Open-source software workflows
+- Linux development environments
+- Advanced Django REST Framework usage
+- PostgreSQL database optimization
+- Backend architecture and best practices
+- Artificial intelligence applications
+
+---
+
+# 🎓 Certifications & Training
+
+- ALX Software Engineering Program (Backend)
+- Huawei HCIA (AI, Security, Datacom)
+- CCNA (Networking Fundamentals)
+
+---
+
+# 📫 Contact
+
+Email: harunabdulmalik2014@gmail.com  
+GitHub: https://github.com/nuraddeen2014  
+LinkedIn: https://www.linkedin.com/in/nuraddeen2014  
+X / Twitter: https://x.com/harunabdulmlk  
+
+---
+
+⭐ I’m interested in collaborating on open-source backend systems and learning from experienced developers.
