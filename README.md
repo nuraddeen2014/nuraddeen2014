@@ -2,7 +2,7 @@
 
 # Hi, I’m Abdulmalik Haruna 👋
 
-**Backend Developer • Python • Open Source Enthusiast**
+**Backend Developer • Python • Open Source Enthusiast • Fullstack AI Native Engineering Trainee • Vibe and prompt Engineering**
 
 I build REST APIs and backend systems using Python, Django, and FastAPI.
 I enjoy designing clean data models, authentication systems, and scalable APIs.
