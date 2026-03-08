@@ -91,6 +91,9 @@ A REST API that allows users to report bugs, propose solutions, comment on discu
 🔗 Repository  
 https://github.com/nuraddeen2014/alx-bug-tracker-api
 
+🛰️  Live on
+https://alx-bug-tracker-api.onrender.com
+
 ---
 
 ## 🎓 Student Study Portal
@@ -110,6 +113,26 @@ The system allows users to manage study materials, interact with structured cont
 🔗 Repository  
 https://github.com/nuraddeen2014/student-study-portal
 
+🛰️  Live on
+https://studentstudyportal-web.onrender.com
+
+## Project Pilot 🛩️
+
+An AI-powered final-year project discovery and planning tool for university students. ProjectPilot eliminates the struggle of finding a feasible and innovative project by leveraging AI to generate personalized project ideas and structured execution roadmaps based on a student's major, skills, and interests.
+
+### Features 
+
+- AI Project Generator: Provides tailored project suggestions using the Llama-3 70B model via the Groq API.
+- Feasibility Analysis: Outlines complexity, required technologies, and estimated effort for each idea.
+- Smart Roadmaps: Generates a week-by-week execution plan with milestones to ensure timely completion.
+- Modern UI: Polished, responsive interface built with Next.js, Tailwind CSS v4, and Lucide Icons.
+
+  🔗 Repository
+  https://github.com/nuraddeen2014/project-pilot
+  
+  🛰️  Live on
+  https://project-piloteai.netlify.com
+  
 ---
 
 # 📊 GitHub Stats
