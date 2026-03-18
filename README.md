@@ -131,8 +131,7 @@ An AI-powered final-year project discovery and planning tool for university stud
   https://github.com/nuraddeen2014/project-pilot
   
   🛰️  Live on
-[  https://project-piloteai.netlify.com
-](https://project-pilot-nuraddeen2014997-7kwhghjg.leapcell.dev/)  
+https://project-pilot-nuraddeen2014997-7kwhghjg.leapcell.dev
 ---
 
 # 📊 GitHub Stats
