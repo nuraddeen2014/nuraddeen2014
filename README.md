@@ -11,7 +11,7 @@ I enjoy designing clean data models, authentication systems, and scalable APIs.
   <img src="https://img.shields.io/badge/GitHub-nuraddeen2014-black?logo=github" />
 </a>
 <a href="https://www.linkedin.com/in/harunabdulmlk">
-  <img src="https://img.shields.io/badge/LinkedIn-nuraddeen2014-0A66C2?logo=linkedin" />
+  <img src="https://img.shields.io/badge/LinkedIn-harunabdulmlk-0A66C2?logo=linkedin" />
 </a>
 <a href="https://x.com/harunabdulmlk">
   <img src="https://img.shields.io/badge/X-@harunabdulmlk-black?logo=x" />
