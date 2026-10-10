@@ -118,7 +118,7 @@ https://studentstudyportal-web.onrender.com
 
 ## Project Pilot 🛩️
 
-An AI-powered final-year project discovery and planning tool for university students. ProjectPilot eliminates the struggle of finding a feasible and innovative project by leveraging AI to generate personalized project ideas and structured execution roadmaps based on a student's major, skills, and interests.
+An AI-powered final-year project discovery and planning tool for university students. ProjectPilot eliminates the struggle of finding a feasible and innovative project by leveraging AI to generate tailored project ideas, evaluate complexity, and map out a realistic roadmap.
 
 ### Features 
 
@@ -132,6 +132,26 @@ An AI-powered final-year project discovery and planning tool for university stud
   
   🛰️  Live on
 https://project-pilot-nuraddeen2014997-7kwhghjg.leapcell.dev
+---
+
+## 🌬️ Air Quality Health Advisor
+
+An AI-integrated application where users enter a location to see current and forecast air quality, the Air Quality Index, and pollutants such as PM2.5, ozone, and nitrogen dioxide. AI explains what the numbers mean for everyday people, especially for sensitive age groups and people with respiratory conditions, and advises whether outdoor activity is safe.
+
+### Features
+
+- Location-based air quality checks
+- AQI and pollutant tracking
+- Forecast and trend insights
+- AI-powered explanations and health guidance
+- Outdoor activity safety recommendations
+
+🔗 Repository  
+https://github.com/nuraddeen2014/air-quality-adviser
+
+🛰️  Live on
+https://air-quality-advisor.streamlit.app/
+
 ---
 
 # 📊 GitHub Stats
