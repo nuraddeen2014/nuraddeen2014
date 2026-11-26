@@ -2,10 +2,9 @@
 
 # Hi, I’m Abdulmalik Haruna 👋
 
-**Backend Developer • Python • Open Source Enthusiast • Fullstack AI Native Engineering Trainee • Vibe and prompt Engineering**
+**Backend Developer | Python, Django & APIs | Exploring Applied AI and Computer Vision**
 
-I build REST APIs and backend systems using Python, Django, and FastAPI.
-I enjoy designing clean data models, authentication systems, and scalable APIs.
+I build backend applications and REST APIs with Python, Django, Django REST Framework, and FastAPI. I’m expanding my work into AI, with a current focus on deep learning and computer vision.
 
 <a href="https://github.com/nuraddeen2014">
   <img src="https://img.shields.io/badge/GitHub-nuraddeen2014-black?logo=github" />
@@ -26,50 +25,46 @@ I enjoy designing clean data models, authentication systems, and scalable APIs.
 
 # 👨🏽‍💻 About Me
 
-I am a backend-focused software engineer based in **Abuja, Nigeria**, with a strong interest in **open-source software and Linux-based development**.
+I am a backend-focused software developer based in **Abuja, Nigeria**, interested in building practical web applications and contributing to open-source software.
 
-I recently completed the **ALX Software Engineering Program (Backend Track)** where I worked extensively with Python, Django, and REST API development.
+I completed the **ALX Software Engineering Program (Backend Track)**, where I worked with Python, Django, and REST API development. My projects include backend APIs, role-based web applications, and AI-enabled tools that integrate external model APIs.
 
-I enjoy building systems that handle:
+I enjoy working on data models, authentication and authorization, access control, and clear API design. I’m also developing my understanding of machine learning, particularly deep learning and computer vision.
 
-- structured data
-- authentication and authorization
-- permissions and access control
-- user interaction systems (comments, voting, tagging)
-- scalable API architectures
-
-I am particularly interested in **how real-world software systems are built and maintained**, especially in collaborative open-source environments.
-
-🌍 Open to:  
-- Open Source Contributions  
-- Backend / Full-stack roles  
-- Remote opportunities  
+🌍 Open to:
+- Open-source contributions
+- Backend and full-stack opportunities
+- Remote opportunities
 
 ---
 
-# 🛠 Tech Stack
+# 🛠 Skills & Technologies
 
-### Backend
+### Backend development
 - Python
-- Django
-- Django REST Framework
+- Django and Django REST Framework
 - FastAPI
+- REST API design and implementation
+- Authentication, authorization, and role-based access control
 
 ### Databases
 - PostgreSQL
 - MySQL
 - SQLite
 
+### Frontend
+- HTML, CSS, and JavaScript
+- Next.js and Tailwind CSS
+
+### AI integration
+- Integrating applications with hosted model APIs, including Groq
+- Building AI-enabled features in web applications
+
 ### Tools
-- Git & GitHub
+- Git and GitHub
 - Linux development environment
 - Docker
 - Postman
-
-### Web
-- HTML
-- CSS
-- JavaScript
 
 ---
 
@@ -77,109 +72,49 @@ I am particularly interested in **how real-world software systems are built and 
 
 ## 🐞 Bug Tracker API
 
-A REST API that allows users to report bugs, propose solutions, comment on discussions, and upvote helpful answers.
+A REST API for reporting bugs, proposing solutions, discussing reports, and voting on helpful answers.
 
-### Features
+**Features:** authentication, bug reports and solutions, comments, voting, tags and filtering, and user-level permission controls.
 
-- User authentication
-- Bug reports and solutions
-- Voting system
-- Commenting system
-- Tags and filtering
-- Permission control (users can only edit their own content)
-
-🔗 Repository  
-https://github.com/nuraddeen2014/alx-bug-tracker-api
-
-🛰️  Live on
-https://alx-bug-tracker-api.onrender.com
-
----
+- [Repository](https://github.com/nuraddeen2014/alx-bug-tracker-api)
+- [Live application](https://alx-bug-tracker-api.onrender.com)
 
 ## 🎓 Student Study Portal
 
-A role-based academic portal designed to support student learning and resource access.  
-The system allows users to manage study materials, interact with structured content, and access personalized dashboards.
+A role-based academic portal for managing study materials and providing students with access to structured learning resources and dashboards.
 
-### Features
+**Features:** authentication, role-based access, student dashboards, study material management, and relational data models.
 
-- Secure user authentication
-- Role-based access control
-- Student dashboards
-- Study material management
-- Structured database relationships
-- Backend logic for managing academic resources
+- [Repository](https://github.com/nuraddeen2014/student-study-portal)
+- [Live application](https://studentstudyportal-web.onrender.com)
 
-🔗 Repository  
-https://github.com/nuraddeen2014/student-study-portal
+## 🛩️ Project Pilot
 
-🛰️  Live on
-https://studentstudyportal-web.onrender.com
+An AI-assisted project discovery and planning tool for university students. It uses the Groq API to generate project suggestions, feasibility details, and project roadmaps.
 
-## Project Pilot 🛩️
+**Technologies include:** Next.js, Tailwind CSS, and the Groq API.
 
-An AI-powered final-year project discovery and planning tool for university students. ProjectPilot eliminates the struggle of finding a feasible and innovative project by leveraging AI to generate tailored project ideas, evaluate complexity, and map out a realistic roadmap.
-
-### Features 
-
-- AI Project Generator: Provides tailored project suggestions using the Llama-3 70B model via the Groq API.
-- Feasibility Analysis: Outlines complexity, required technologies, and estimated effort for each idea.
-- Smart Roadmaps: Generates a week-by-week execution plan with milestones to ensure timely completion.
-- Modern UI: Polished, responsive interface built with Next.js, Tailwind CSS v4, and Lucide Icons.
-
-  🔗 Repository
-  https://github.com/nuraddeen2014/project-pilot
-  
-  🛰️  Live on
-https://project-pilot-nuraddeen2014997-7kwhghjg.leapcell.dev
----
+- [Repository](https://github.com/nuraddeen2014/project-pilot)
+- [Live application](https://project-pilot-nuraddeen2014997-7kwhghjg.leapcell.dev)
 
 ## 🌬️ Air Quality Health Advisor
 
-An AI-integrated application where users enter a location to see current and forecast air quality, the Air Quality Index, and pollutants such as PM2.5, ozone, and nitrogen dioxide. AI explains what the numbers mean for everyday people, especially for sensitive age groups and people with respiratory conditions, and advises whether outdoor activity is safe.
+An application for checking current and forecast air quality by location, viewing pollutant information, and receiving AI-generated explanations and activity guidance.
 
-### Features
-
-- Location-based air quality checks
-- AQI and pollutant tracking
-- Forecast and trend insights
-- AI-powered explanations and health guidance
-- Outdoor activity safety recommendations
-
-🔗 Repository  
-https://github.com/nuraddeen2014/air-quality-adviser
-
-🛰️  Live on
-https://air-quality-advisor.streamlit.app/
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nuraddeen2014&show_icons=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nuraddeen2014" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuraddeen2014&layout=compact" />
-</p>
+- [Repository](https://github.com/nuraddeen2014/air-quality-adviser)
+- [Live application](https://air-quality-advisor.streamlit.app/)
 
 ---
 
 # 📚 Currently Learning
 
-I’m actively expanding my knowledge in:
+I’m currently studying:
 
-- Open-source software workflows
-- Linux development environments
-- Advanced Django REST Framework usage
-- PostgreSQL database optimization
-- Backend architecture and best practices
-- Artificial intelligence applications
+- Deep learning algorithms and their practical applications
+- Computer vision fundamentals and workflows
+- Transfer learning, including how pretrained models can be adapted to new tasks
+
+I’m building on my software development background while developing a stronger foundation in machine learning concepts and implementation.
 
 ---
 
@@ -193,11 +128,11 @@ I’m actively expanding my knowledge in:
 
 # 📫 Contact
 
-Email: harunabdulmalik2014@gmail.com  
-GitHub: https://github.com/nuraddeen2014  
-LinkedIn: https://www.linkedin.com/in/nuraddeen2014  
-X / Twitter: https://x.com/harunabdulmlk  
+- Email: [harunabdulmalik2014@gmail.com](mailto:harunabdulmalik2014@gmail.com)
+- GitHub: [nuraddeen2014](https://github.com/nuraddeen2014)
+- LinkedIn: [harunabdulmlk](https://www.linkedin.com/in/harunabdulmlk)
+- X: [@harunabdulmlk](https://x.com/harunabdulmlk)
 
 ---
 
-⭐ I’m interested in collaborating on open-source backend systems and learning from experienced developers.
+⭐ I’m interested in contributing to useful software projects, learning from other developers, and building a solid foundation in applied AI.
