@@ -3,6 +3,8 @@
 # Hi, I’m Abdulmalik Haruna 👋
 
 **Backend Developer | Python, Django & APIs | Exploring Applied AI and Computer Vision**
+
+
 <a href="https://github.com/nuraddeen2014">
   <img src="https://img.shields.io/badge/GitHub-nuraddeen2014-black?logo=github" />
 </a>
