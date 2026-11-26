@@ -4,7 +4,9 @@
 
 **Backend Developer | Python, Django & APIs | Exploring Applied AI and Computer Vision**
 
-I build backend applications and REST APIs with Python, Django, Django REST Framework, and FastAPI. I’m expanding my work into AI, with a current focus on deep learning and computer vision.
+I am a backend-focused software developer and machine learning enthusiast based in **Abuja, Nigeria**. I am currently completing an internship at the **National Centre for Artificial Intelligence and Robotics (NCAIR)**, where I am gaining practical experience building machine learning and deep learning algorithms that solve real-world problems.
+
+I completed the **ALX Software Engineering Program (Backend Track)**, where I worked with Python, Django, and REST API development. My projects include backend APIs, role-based web applications, and machine learning applications.
 
 <a href="https://github.com/nuraddeen2014">
   <img src="https://img.shields.io/badge/GitHub-nuraddeen2014-black?logo=github" />
@@ -57,6 +59,10 @@ I enjoy working on data models, authentication and authorization, access control
 - Next.js and Tailwind CSS
 
 ### AI integration
+### Machine learning and AI
+- Machine learning and deep learning
+- Building algorithms to solve practical problems
+- Computer vision
 - Integrating applications with hosted model APIs, including Groq
 - Building AI-enabled features in web applications
 
@@ -90,7 +96,7 @@ A role-based academic portal for managing study materials and providing students
 
 ## 🛩️ Project Pilot
 
-An AI-assisted project discovery and planning tool for university students. It uses the Groq API to generate project suggestions, feasibility details, and project roadmaps.
+A vibe-coded AI-assisted project discovery and planning tool for university students. It uses the Groq API to generate project suggestions, feasibility details, and project roadmaps.
 
 **Technologies include:** Next.js, Tailwind CSS, and the Groq API.
 
