@@ -3,11 +3,6 @@
 # Hi, I’m Abdulmalik Haruna 👋
 
 **Backend Developer | Python, Django & APIs | Exploring Applied AI and Computer Vision**
-
-I am a backend-focused software developer and machine learning enthusiast based in **Abuja, Nigeria**. I am currently completing an internship at the **National Centre for Artificial Intelligence and Robotics (NCAIR)**, where I am gaining practical experience building machine learning and deep learning algorithms that solve real-world problems.
-
-I completed the **ALX Software Engineering Program (Backend Track)**, where I worked with Python, Django, and REST API development. My projects include backend APIs, role-based web applications, and machine learning applications.
-
 <a href="https://github.com/nuraddeen2014">
   <img src="https://img.shields.io/badge/GitHub-nuraddeen2014-black?logo=github" />
 </a>
@@ -27,11 +22,9 @@ I completed the **ALX Software Engineering Program (Backend Track)**, where I wo
 
 # 👨🏽‍💻 About Me
 
-I am a backend-focused software developer based in **Abuja, Nigeria**, interested in building practical web applications and contributing to open-source software.
+I am a backend-focused software developer and machine learning enthusiast based in **Abuja, Nigeria**. I am currently completing an internship at the **National Centre for Artificial Intelligence and Robotics (NCAIR)**, where I am gaining practical experience building machine learning and deep learning algorithms that solve real-world problems.
 
-I completed the **ALX Software Engineering Program (Backend Track)**, where I worked with Python, Django, and REST API development. My projects include backend APIs, role-based web applications, and AI-enabled tools that integrate external model APIs.
-
-I enjoy working on data models, authentication and authorization, access control, and clear API design. I’m also developing my understanding of machine learning, particularly deep learning and computer vision.
+I completed the **ALX Software Engineering Program (Backend Track)**, where I worked with Python, Django, and REST API development. My projects include backend APIs, role-based web applications, and machine learning applications.
 
 🌍 Open to:
 - Open-source contributions
